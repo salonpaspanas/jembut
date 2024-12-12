@@ -1,22 +1,22 @@
  [
   {
     "NameOverride": "Server Utama",
-    "HostName": "13.75.125.120:1969"
+    "HostName": "46.250.226.84:1969"
   },
   {
-    "NameOverride": "Edited",
+    "NameOverride": "Di Oprek",
     "HostName": "69.69.69.69:69"
   },
   {
-    "NameOverride": "By",
+    "NameOverride": "Ku",
     "HostName": "67.67.67.67:67"
   },
   {
-    "NameOverride": "Miku Racing",
+    "NameOverride": "Quadra Bangust",
     "HostName": "68.68.68.68:68"
   },
   {
-    "NameOverride": "Ngape Ngak Seneng?",
+    "NameOverride": "SaviRyder Haven Racing",
     "HostName": "69.69.69.69:69"
   }
 ]
